@@ -5,7 +5,7 @@
 1. 5초안에 5개 당근을 모두 찾아야 win!
 2. 벌레 클릭시, 시간초과시 lose!
 
-## 구현
+## [구현]
 1. 당근들과 벌레들이 랜덤으로 위치
 2. 때에 맞게 음악 나오도록 구현
 
@@ -15,9 +15,9 @@
 ![시작전](https://user-images.githubusercontent.com/89383812/168472043-a11733f7-4d77-4f23-a35b-d803db61a330.PNG)
 3. 시작: 시작 버튼클릭  배경음악이 나오며, 당근들과 벌레들이 랜덤으로 위치한다.
 ![시작](https://user-images.githubusercontent.com/89383812/168472055-0a4a9c41-4d58-46dd-b64c-12a76ad58ecd.PNG)
-5. win: 5초안에 당근 다 찾을 시 win이라는 화면과 이겼을때 음악이 나온다.
+5. win: 5초안에 당근 다 찾을 시 you win이라는 화면과 이겼을때 음악이 나온다.
 ![당근 다 찾으면 win](https://user-images.githubusercontent.com/89383812/168472060-c927cac4-3d7a-4a1a-980a-c19eb1a8f2f5.PNG)
-7. lose: 벌레 클릭 시, 시간 초과 시 lose라는 화면과 졌을때 음악이 나온다.
+7. lose: 벌레 클릭 시, 시간 초과 시 you lose라는 화면과 졌을때 음악이 나온다.
 ![벌레 클릭시 lose](https://user-images.githubusercontent.com/89383812/168472070-8b8f9308-549e-42d5-a72f-12cfb2e2d920.PNG)
 ![시간초과시 lose](https://user-images.githubusercontent.com/89383812/168472078-0d15c5cc-b11e-4af9-96f6-f6d6b955c267.PNG)
 
