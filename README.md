@@ -7,7 +7,7 @@
 
 
 ## [게임 화면]
-1. 초기화면
+1. 초기화면  
 ![시작전](https://user-images.githubusercontent.com/89383812/168472043-a11733f7-4d77-4f23-a35b-d803db61a330.PNG)
 3. 시작: 시작 버튼클릭
 ![시작](https://user-images.githubusercontent.com/89383812/168472055-0a4a9c41-4d58-46dd-b64c-12a76ad58ecd.PNG)
